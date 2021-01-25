@@ -1,3 +1,7 @@
+UPDATED SCRIPT ON GITLAB 2021
+
+https://gitlab.com/W1nst0n/universal-android-debloater
+
 # Universal Android Debloater
 
 **DISCLAIMER**: Use this script at your own risk. I am not responsible for anything that could happen to your phone. 
